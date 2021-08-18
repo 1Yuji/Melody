@@ -2,6 +2,6 @@
 ##  Проект выполнил: Гагарин Евгений
 
 ### Технологии
--html
--css
--javascript
+- html
+- css
+- javascript
